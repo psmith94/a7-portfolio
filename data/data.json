@@ -1,0 +1,34 @@
+{
+  "geoprofiler" : {
+    "desc" : "Geo-Profiler is the end product for the Android Development class the iSchool offers, and was developed in collaboration with 3 other Informatics students. This application enables the user to define an area on a Google Maps interface and a time frame in which they do not want to be disturbed. If the user receives a text message during this time, our app will auto reply with a pre-defined, by the user, message.",
+    "icon" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/ic_launcher.png?alt=media&token=5933a4e0-d563-4ed3-9645-382096b24137",
+    "link" : "https://github.com/psmith94/FINAL-PROJECT",
+    "screengrab" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/Screenshot_20161121-194650.jpg?alt=media&token=e1d6ecd3-a261-435f-9c0a-56f061e357c6",
+    "title" : "Geo-Profiler",
+    "type" : "Android Application"
+  },
+  "mapping" : {
+    "desc" : "This web application is a visual representation of all the mass shootings in the United States in 2016.",
+    "icon" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/mapping-icon.png?alt=media&token=299dbfee-9e99-4dbc-a245-3f699b2187a4",
+    "link" : "https://students.washington.edu/psmith94/info343/a3-mapping-psmith94/",
+    "screengrab" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/mapping.png?alt=media&token=37034bf5-340a-4c7c-aa35-e02ed0ed83cc",
+    "title" : "Shooting Map",
+    "type" : "Web Development: jQuery, Data Visualization"
+  },
+  "tos" : {
+    "desc" : "Tiles of Songs is a web application utilizing the React JavaScript library. It allows the user to query the Spotify API and play samples of the top 50 songs matching their query.",
+    "icon" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/favicon.ico?alt=media&token=c1324d89-cf25-4991-aaed-d541034b898e",
+    "link" : "https://students.washington.edu/psmith94/info343/a5-spotify-psmith94/",
+    "screengrab" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/tiles-of-songs.png?alt=media&token=f1d15dac-8b7a-4652-863a-f801d33a986f",
+    "title" : "Tiles of Songs",
+    "type" : "Web Devlopment: React, Utilizing Web API's"
+  },
+  "tweeter" : {
+    "desc" : "Tweeter is a web application developed for the iSchool's INFO 343 class. This application uses Firebase as a backend to enable users to create accounts and post messages to chronologically ordered stream of said messages.",
+    "icon" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/tweeter-icon.png?alt=media&token=7d5d5894-5b2c-4b49-aa88-6e0c9d384dc6",
+    "link" : "https://students.washington.edu/psmith94/info343/a4-firebase-psmith94/",
+    "screengrab" : "https://firebasestorage.googleapis.com/v0/b/portfolio-cff0e.appspot.com/o/tweeter-main.png?alt=media&token=bdd2750a-576f-4130-9fac-b670a64948fc",
+    "title" : "Tweeter",
+    "type" : "Web Development: Database driven applications"
+  }
+}

@@ -1,0 +1,52 @@
+/*CSS for portfolio*/
+
+.home-page {
+	text-align: center;
+	margin: auto;
+	width: 75%;
+}
+
+.item-div {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.project-icon {
+	height: 64px;
+	width: 64px;
+	display: inline;
+	margin-left: -128px;
+}
+
+.project-sg-links {
+	margin-top: 10px;
+	display: block;
+}
+
+.project-links {
+	margin-top: 10px;
+	display: block;
+}
+
+.project-title {
+	display: inline;
+	margin: 0;
+	padding-bottom: 20px;
+	padding-left: 64px;
+}
+
+.project-desc{
+
+}
+
+@media (max-width: 720px) {
+	.project-title {
+		display: inline-block;
+		padding: 0;	
+	}
+
+	.project-icon {
+		display: inline-block;
+		margin: auto;
+	}
+}
