@@ -1,8 +1,8 @@
 //main .jsx file
 
 
-var { Router, Route, IndexRoute, Link, browserHistory } = ReactRouter
-var browserHistory = ReactRouter.browserHistory;
+var { Router, Route, IndexRoute, Link, hashHistory } = ReactRouter
+var hashHistory = ReactRouter.hashHistory;
 
 var PortfolioHome = React.createClass({
 
@@ -136,7 +136,7 @@ var PortfolioMain = React.createClass({
 });
 
 ReactDOM.render((
-	<Router history={browserHistory}>
+	<Router history={hashHistory}>
 		<Route path="/" component={PortfolioMain}>
 			<IndexRoute component={PortfolioHome}/>
 			<Route path="/projects" component={PortfolioProjects}/>
