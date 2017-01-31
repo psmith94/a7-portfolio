@@ -58,7 +58,7 @@ var PortfolioProjects = React.createClass({
 	},
 
 	componentDidMount:function() {
-		$.get('../data/data.json').then(function(data) {
+		$.get('data/data.json').then(function(data) {
 			this.setState({projectData: data})
 		}.bind(this));
 		console.log(this);
